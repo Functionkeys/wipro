@@ -1,8 +1,9 @@
 public class MyJavaFile{
 public static void main(String args[]){
-int a=89;
+int a=8;
 if(a%2==0){
 System.out.println("Even no.");
+System.out.println("Hello");
 }
 else{
 System.out.println("odd no");
